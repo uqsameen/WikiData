@@ -4,7 +4,7 @@ This repository contains code and data for analyzing and mitigating bias in toxi
 
 ## Project Description
 
-This project focuses on developing and evaluating various machine learning models for identifying toxic content while minimizing unintended biases. We explore different model architectures (LR, SVM, CNN) and mitigation strategy to improve fairness and accuracy.
+This project focuses on developing and evaluating various machine learning models for identifying toxic content while minimizing unintended biases. We explore different model architectures (LR, CNN) and mitigation strategy to improve fairness and accuracy.
 
 ## Repository Structure
 
