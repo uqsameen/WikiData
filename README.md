@@ -17,7 +17,6 @@ This project focuses on developing and evaluating various machine learning model
 * **model_03_LR_debiased.ipynb:** Logistic Regression model trained on debiased data.
 * **model_05_CNN_George_biased.ipynb:** CNN model (George architecture) trained on biased data.
 * **model_05_CNN_George_debiased.ipynb:** CNN model (George architecture) trained on debiased data.
-* **ROC_Evaluations_Classifiers.ipynb:**  Evaluations for different classifiers.
 * **ROC_Evaluations_Situational.ipynb:** Evaluations based on situational testing.
 * **SR_CNN_George.ipynb:** Situational testing of the CNN_George model.
 * **SR_LR.ipynb:** Situational testing of the Logistic Regression model.
