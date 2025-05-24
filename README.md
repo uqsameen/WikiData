@@ -2,10 +2,6 @@
 
 This repository contains code and data for analyzing and mitigating bias in toxicity detection models.
 
-## Project Description
-
-This project focuses on developing and evaluating various machine learning models for identifying toxic content while minimizing unintended biases. We explore different model architectures (LR, CNN) and mitigation strategy to improve fairness and accuracy.
-
 ## Repository Structure
 
 * **ALL_RUT_Models:** Contains generic code for all the ML models.
